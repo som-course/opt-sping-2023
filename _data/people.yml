@@ -1,21 +1,17 @@
 instructors:
+
+  - name: Haishan Ye
+    profile_pic: /_images/pp/haishan.jpeg
+    webpage:
+
   - name: Xiangyu Chang
     profile_pic: /_images/pp/xiangyu.jpeg
     webpage: http://xiangyuchang.github.io/
-    
-  - name: Yao Wang
-    profile_pic: /_images/pp/yao.jpeg
-    webpage:
+
+
 
 teaching_assistants:
-  - name: Yi Yang
-    profile_pic: /_images/pp/yiyang.png
-    webpage:
 
-  - name: Junbo Hao
-    profile_pic: /_images/pp/haojunbo.jpeg
-    webpage:
-
-  - name: Zhikai Yang
+  - name: Jun Shang
     profile_pic: /_images/pp/zhikai.jpeg
-    webpage: http://zhikai.pro
+    webpage:
