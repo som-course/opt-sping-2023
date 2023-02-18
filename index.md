@@ -12,7 +12,7 @@ Optimization is a special field that is built on three interwined pillars:
 
 
 
-**Location:** 2nd Ceter Building 1257
+**Location:** 2nd Center Building 1257
 
 **Date**: 5th&6th class, Tuesdays and 1st&2nd class, Thursday, 02/21 - 04/13, 2023. 
 

@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2021-04-27T8:00:00+8:00
+date: 2023-02-21T8:00:00+8:00
 title: Lecture 1 Introduction
 tldr: introduction lecture
 thumbnail: /_images/pp/intro.jpeg
